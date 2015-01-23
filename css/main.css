@@ -77,14 +77,15 @@ blockquote {
 }
 
 cite {
-  font-size: .5rem;
+  font-size: .8rem;
   text-align: right;
   color: #79756f;
   padding: 450px;
 }
 
 .quote {
-  font-family: Georgia, serif;
+  font-family: georgia, serif;
   font-size: 2rem;
   color: #79756f;
+  font-style: italic;
 }
